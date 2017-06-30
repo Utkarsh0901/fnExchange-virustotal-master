@@ -1,13 +1,12 @@
 # fnExchange VirusTotal Plugin
 
-
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/Utkarsh0901/Osquery/master/OSquery_logo.png" alt="osquery logo" width="500"/>
+</p>
 
-<p align="center">
-This is a plugin for the fnExchange API router for interacting with [Virustotal](http://virustotal.com).
+This is a plugin for the fnExchange API router for interacting with [Virustotal](http://virustotal.com)
 
-# 
+ 
 
 # Installation
 Simply install this as
