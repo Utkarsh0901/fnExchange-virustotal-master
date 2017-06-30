@@ -1,10 +1,13 @@
-# fnExchange Slack Plugin
-This is a plugin for the fnExchange API router for interacting with Slack.
+# fnExchange VirusTotal Plugin
 
-This plugin currently only provides an Action for posting messages to a Slack
-channel using inbound webhooks. This only requires the inbound webhook URL token.
 
-You can get the Slack webhook URL [here](https://my.slack.com/services/new/incoming-webhook/)
+<p align="center">
+<img align="center" src="https://raw.githubusercontent.com/Utkarsh0901/Osquery/master/OSquery_logo.png" alt="osquery logo" width="500"/>
+
+<p align="center">
+This is a plugin for the fnExchange API router for interacting with [Virustotal](http://virustotal.com).
+
+# 
 
 # Installation
 Simply install this as
